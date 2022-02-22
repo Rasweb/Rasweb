@@ -2,8 +2,12 @@
 
 Hello, my name is Rasmus. I am a Front End Developer student from Sweden.
 
-Visit my Portfolio site: https://rasweb.one/
-Or you can visit the portfolio on Github Pages: https://rasweb.github.io/
+Visit my Portfolio site: 
+One.com
+https://rasweb.one/
+
+Github Pages:
+https://rasweb.github.io/
 
 <!--
 **Rasweb/Rasweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
