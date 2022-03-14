@@ -10,6 +10,16 @@ https://rasweb.one/
 Github Pages:
 https://rasweb.github.io/
 
+These are the group projects I been working on:
+NodeJs, Express and MongoDB.
+https://github.com/julialotta/MI-Kvitter.git
+
+JavaScript and Cypress.
+https://github.com/ViggoOhlsson/Project_Butik.git
+
+HTML and Sass.
+https://github.com/FannyRosen/ettlitethem.git
+
 <!--
 **Rasweb/Rasweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
