@@ -10,7 +10,7 @@ https://rasweb.one/
 Github Pages:
 https://rasweb.github.io/
 
-These are the group projects I been working on:
+These are the group projects I have done:
 
 NodeJs, Express and MongoDB.
 https://github.com/julialotta/MI-Kvitter.git
