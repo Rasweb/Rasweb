@@ -7,9 +7,6 @@ Visit my Portfolio site:
 One.com
 https://rasweb.one/
 
-Github Pages:
-https://rasweb.github.io/
-
 These are the group projects I have done:
 
 NodeJs, Express and MongoDB.
