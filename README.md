@@ -21,15 +21,19 @@ Visit my Portfolio site:
 These are the group projects I have done:
 
 A simple project with focus on agile work methods.
+
 [ProluBene](https://github.com/dennislundgren/MI-AGIL-ProluoBene.git)
 
 NodeJs, Express and MongoDB.
+
 [Kvitter](https://github.com/julialotta/MI-Kvitter.git)
 
 JavaScript and Cypress.
+
 [Project Butik](https://github.com/Rasweb/Project_Butik.git)
 
 HTML and Sass.
+
 [Ett litet hem](https://github.com/FannyRosen/ettlitethem.git)
 
 <!--
