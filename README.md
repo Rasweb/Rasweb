@@ -5,8 +5,10 @@ Hello, my name is Rasmus. I am a Front End Developer student at Medieinstitutet 
 You can find me on these sites:
 FrontendMentor
 https://www.frontendmentor.io/profile/Rasweb
+
 Linkedin
 https://www.linkedin.com/in/rasmus-palm-076a83219/
+
 FreeCodeCamp
 https://www.freecodecamp.org/fcc126c48c1-84a3-4dde-98b3-fc16d3a621d0
 
