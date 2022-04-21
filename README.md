@@ -31,7 +31,7 @@ NodeJs, Express and MongoDB.
 https://github.com/julialotta/MI-Kvitter.git
 
 JavaScript and Cypress.
-https://github.com/ViggoOhlsson/Project_Butik.git
+https://github.com/Rasweb/Project_Butik.git
 
 HTML and Sass.
 https://github.com/FannyRosen/ettlitethem.git
