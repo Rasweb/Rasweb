@@ -22,7 +22,7 @@ These are the group projects I have done:
 
 A simple project with focus on agile work methods. Also the first time i worked with pull requests.
 
-[ProluBene](https://github.com/dennislundgren/MI-AGIL-ProluoBene.git)
+[ProluBene](https://github.com/Rasweb/MI-AGIL-ProluoBene.git)
 
 NodeJs, Express and MongoDB.
 
