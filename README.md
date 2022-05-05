@@ -26,7 +26,7 @@ A simple project with focus on agile work methods. Also the first time i worked 
 
 NodeJs, Express and MongoDB.
 
-[Kvitter](https://github.com/julialotta/MI-Kvitter.git)
+[Kvitter](https://github.com/Rasweb/MI-DynamiskWebbutveckling-Kvitter)
 
 JavaScript and Cypress.
 
