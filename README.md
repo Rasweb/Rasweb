@@ -34,7 +34,7 @@ JavaScript and Cypress.
 
 HTML and Sass.
 
-[Ett litet hem](https://github.com/FannyRosen/ettlitethem.git)
+[Ett litet hem](https://github.com/Rasweb/MI-HTML-CSS-EttLitetHem)
 
 <!--
 **Rasweb/Rasweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
