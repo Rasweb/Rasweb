@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Hello, my name is Rasmus. I am a Front End Developer student at Medieinstitutet from Stockholm Sweden.
-I'm currently looking for an internship, contact me for more information.
 
 -------------------------------
 You can find me on these sites:
