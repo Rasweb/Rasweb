@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Rasmus. I am a Front End Developer student at Medieinstitutet from Stockholm Sweden.
+Hello, my name is Rasmus. I am a Front End Developer student at Medieinstitutet from Sweden.
 -------------------------------
 Visit my Portfolio site: 
 
