@@ -9,20 +9,19 @@ Visit my Portfolio site:
 -------------------------------
 These are the group projects I have done:
 
-A simple project with focus on agile work methods. Also the first time i worked with pull requests.
+- A booking system create using NodeJS and ReactJS.
+[Vuxenjuice](https://github.com/Rasweb/booking-system)
 
+- A simple project with focus on agile work methods. Also the first time i worked with pull requests.
 [ProluBene](https://github.com/Rasweb/MI-AGIL-ProluoBene.git)
 
-NodeJs, Express and MongoDB.
-
+- A backend project using NodeJs and Express. My first backend project.
 [Kvitter](https://github.com/Rasweb/MI-DynamiskWebbutveckling-Kvitter)
 
-JavaScript and Cypress.
-
+- A fake ecommerce website created using JavaScript and Cypress.
 [Project Butik](https://github.com/Rasweb/Project_Butik.git)
 
-HTML and Sass.
-
+- A HTML and SCSS fake ecommerce website.
 [Ett litet hem](https://github.com/Rasweb/MI-HTML-CSS-EttLitetHem)
 
 <!--
