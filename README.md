@@ -4,7 +4,7 @@ Hello, my name is Rasmus. I am a Front End Developer student at Medieinstitutet 
 -------------------------------
 Visit my Portfolio site: 
 
-[One.com](https://rasweb.one/)
+[Portfolio]([https://rasweb.one/](https://rasweb.github.io/Personal-Portfolio-React/))
 
 -------------------------------
 These are the group projects I have done:
