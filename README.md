@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello, my name is Rasmus. I am a Front End Developer student at Medieinstitutet from Sweden.
+Hello, my name is Rasmus. I am a Junior Front End Developer Nexus Group Global until 2023/08/31, from Sweden.
 -------------------------------
-Visit my Portfolio site: 
+Visit my Portfolio site (last updated - 2023/12/14) 
 
 [Portfolio](https://rasweb.github.io/Personal-Portfolio-React/)
 
