@@ -2,7 +2,7 @@
 
 Hello, my name is Rasmus. I am a Junior Front End Developer at Nexus Group Global until 2023/08/31, from Sweden.
 -------------------------------
-Visit my Portfolio site (last updated - 2023/12/14) 
+Visit my Portfolio site (last updated - 2022/12/14) 
 
 [Portfolio](https://rasweb.github.io/Personal-Portfolio-React/)
 
