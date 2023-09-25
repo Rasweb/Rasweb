@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hello, my name is Rasmus. I am a Junior Front End Developer at Nexus Group Global until 2023/08/31, from Sweden.
+Hello, my name is Rasmus. I am a Junior Front End Developer with solid foundation in web development and 1 year of work experience as a front end developer, from Sweden.
+
 -------------------------------
 Visit my Portfolio site (last updated - 2022/12/14) 
 
