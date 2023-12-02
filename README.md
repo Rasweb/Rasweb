@@ -3,9 +3,9 @@
 Hello, my name is Rasmus. I am a Junior Front End Developer with solid foundation in web development and 1 year of work experience as a front end developer, from Sweden.
 
 -------------------------------
-Visit my Portfolio site (last updated - 2022/12/14) 
+Visit my Portfolio site (last updated - 2023/12/02) 
 
-[Portfolio](https://rasweb.github.io/Personal-Portfolio-React/)
+[Portfolio](https://personal-website-game-inspired.vercel.app/)
 
 -------------------------------
 These are the group projects I have done:
