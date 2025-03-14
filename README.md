@@ -2,7 +2,8 @@
 
 Hello, my name is Rasmus. 
 I'm an aspiring System Developer, I'm studying at **Stockholms Technical Institute(STI)**, focusing on creating efficient solutions for real-world devices.
-Wokring on skills such as:
+
+Working on skills such as:
 * C
 * C++
 <!--
