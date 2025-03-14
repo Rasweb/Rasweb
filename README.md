@@ -2,6 +2,9 @@
 
 Hello, my name is Rasmus. 
 I'm an aspiring System Developer, I'm studying at **Stockholms Technical Institute(STI)**, focusing on creating efficient solutions for real-world devices.
+Wokring on skills such as:
+* C
+* C++
 <!--
 **Rasweb/Rasweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
