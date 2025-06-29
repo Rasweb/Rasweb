@@ -6,6 +6,7 @@ I'm an aspiring System Developer, I'm studying at **Stockholms Technical Institu
 Working on skills such as:
 * C
 * C++
+* Python
 <!--
 **Rasweb/Rasweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
